@@ -10,3 +10,4 @@
 
 - Write content for resources or categories
 - Add more resources but only after reading the rules
+- Add an issue and **remember** choose **`hacktoberfest-accepted`** label
